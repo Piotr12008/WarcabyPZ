@@ -21,10 +21,10 @@ import network.Server;
 
 public class Warcaby extends JFrame {
 	/**
-	 * 
+	 * Niby jakas zmiana, sprawdzam gita
 	 */
 	private static final long serialVersionUID = 1L;
-
+	
 	private JPanel Panel = null;	
 	private JButton graczVsGracz = null;
 	private JButton graczVsKomputer = null;
